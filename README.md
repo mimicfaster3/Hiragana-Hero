@@ -205,4 +205,4 @@ This repository serves as the official landing page for Hiragana Hero. The softw
 **Get the most recent version of Hiragana Hero today!**
 
 ---
-**Last updated:** 2026-11-10 14:11:07 UTC
+**Last updated:** 2026-11-10 21:10:21 UTC
